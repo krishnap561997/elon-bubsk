@@ -1,0 +1,47 @@
+# Basilisk outputs
+dump*
+snapshot*
+restart*
+
+# Nek5000 outputs
+*.fld
+*.f000*
+*.nek5000
+
+# Data files
+*.dat
+*.h5
+*.hdf5
+*.mat
+*.xdmf
+
+# Visualization
+*.vtk
+*.vtu
+*.pvtu
+*.pvd
+
+# Images and videos
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.avi
+
+# Build files
+obj/
+build/
+*.o
+*.so
+*.a
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
